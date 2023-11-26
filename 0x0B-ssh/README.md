@@ -1,12 +1,5 @@
 # 0x0B. SSH
 
-DevOps
-SSH
-
-SysAdmin
-Security
-
-
 ### Table of Contents
 
 1. [Getting Started](#getting-started)
