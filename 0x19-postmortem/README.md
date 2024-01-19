@@ -1,3 +1,3 @@
 # Postmortem
 
-![download (1)](https://github.com/festoug/festoug/assets/103335071/e855da9f-5836-4732-9a53-87ba9a2ac382)
+![pQ9YzVY](https://github.com/festoug/festoug/assets/103335071/606ccc1f-c24e-47ab-a56c-23534e05bb17)`
